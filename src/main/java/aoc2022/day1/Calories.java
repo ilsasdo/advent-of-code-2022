@@ -35,7 +35,6 @@ public class Calories {
     }
 
     private static List<Long> parseCalories(Scanner scanner) {
-        long maxCalories = 0;
         long elfCalories = 0;
         List<Long> elvesCalories = new ArrayList<>();
 
